@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mess&#39;s Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 10:06:51 -0400</lastBuildDate>
     
 	<atom:link href="https://davemessinger.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Links I Am Reading</title>
+      <link>https://davemessinger.com/post/my-links-i-am-reading/</link>
+      <pubDate>Thu, 23 Jul 2020 10:06:51 -0400</pubDate>
+      
+      <guid>https://davemessinger.com/post/my-links-i-am-reading/</guid>
+      <description>This is just a simple list of links by day I want to get back to or find again or I found interesting, nothing really to see here :)</description>
+    </item>
     
     <item>
       <title>Reading during Lockdown</title>

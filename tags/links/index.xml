@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>links on Mess&#39;s Musings</title>
+    <link>https://davemessinger.com/tags/links/</link>
+    <description>Recent content in links on Mess&#39;s Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jul 2020 10:06:51 -0400</lastBuildDate>
+    
+	<atom:link href="https://davemessinger.com/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Links I Am Reading</title>
+      <link>https://davemessinger.com/post/my-links-i-am-reading/</link>
+      <pubDate>Thu, 23 Jul 2020 10:06:51 -0400</pubDate>
+      
+      <guid>https://davemessinger.com/post/my-links-i-am-reading/</guid>
+      <description>This is just a simple list of links by day I want to get back to or find again or I found interesting, nothing really to see here :)</description>
+    </item>
+    
+  </channel>
+</rss>
