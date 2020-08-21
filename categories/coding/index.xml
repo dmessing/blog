@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Mess&#39;s Musings</title>
+    <link>https://davemessinger.com/categories/coding/</link>
+    <description>Recent content in coding on Mess&#39;s Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Aug 2020 14:26:31 -0400</lastBuildDate>
+    
+	<atom:link href="https://davemessinger.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classes I Am Taking</title>
+      <link>https://davemessinger.com/post/classes-i-am-taking/</link>
+      <pubDate>Fri, 21 Aug 2020 14:26:31 -0400</pubDate>
+      
+      <guid>https://davemessinger.com/post/classes-i-am-taking/</guid>
+      <description>Courses
+  It was about time I learned React so I signed up for React Redux on Udemy</description>
+    </item>
+    
+  </channel>
+</rss>
